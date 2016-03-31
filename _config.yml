@@ -1,0 +1,28 @@
+name: Dark Place Athletics
+favicon: null
+layout_spectrum: 0.5491063219960779
+typography_spectrum: 0.37212887196801603
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4041447816416621
+  lightness: 0.8238773436751217
+  saturation: 0.4475806162226945
+  rhythmicContrast: 0.928195315413177
+purpose: []
